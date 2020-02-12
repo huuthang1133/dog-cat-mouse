@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project is just a demo
 // git init
 // git status 
@@ -28,6 +29,9 @@ master <---- feature/dog-class
 // git reset -mixed <to_commit>
 // git reset -hard <to_commit>
 
+=======
+This project is just a demo
+>>>>>>> parent of 9884805... Add eat method for Dog
 =======
 This project is just a demo
 >>>>>>> parent of 9884805... Add eat method for Dog
